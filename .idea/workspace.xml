@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b386580e-a225-45b2-84be-11b0d8a7cace" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/chandsine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chandsine_midi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chandsine_tuner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dna_dictmaker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dna_mapping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sansine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sansine_sd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sansine_sd_bpm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanskrit_english.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanskrit_wave.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whitepaper.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kriya_enigma.py" beforeDir="false" afterPath="$PROJECT_DIR$/kriya_enigma.py" afterDir="false" />
+    <list default="true" id="b386580e-a225-45b2-84be-11b0d8a7cace" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/whitepaper.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whitepaper.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685558717042</updated>
-      <workItem from="1685558718134" duration="7718000" />
+      <workItem from="1685558718134" duration="7901000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1685559197254</created>
@@ -76,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685559197254</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1685566619238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685566619238</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

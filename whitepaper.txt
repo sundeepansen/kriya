@@ -1,4 +1,4 @@
-[Title: Chanda Encryption: A Creative Approach to Linguistic-Based Encryption]
+Chanda Encryption: A Creative Approach to Linguistic-Based Encryption
 
 Abstract:
 Chanda Encryption is a novel encryption scheme that leverages the rhythmic patterns and structures of the Chanda system, derived from Sanskrit poetry, to encrypt and decrypt messages. This white paper presents the concept and implementation of Chanda Encryption, demonstrating its application as a linguistic-based encryption technique. We explore the encryption process, the security considerations, and potential use cases for Chanda Encryption. While Chanda Encryption offers an innovative approach to encryption, it is essential to note that it is primarily intended for educational and experimental purposes rather than stringent security requirements.
