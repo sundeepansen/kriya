@@ -1,0 +1,34 @@
+[Title: Chanda Encryption: A Creative Approach to Linguistic-Based Encryption]
+
+Abstract:
+Chanda Encryption is a novel encryption scheme that leverages the rhythmic patterns and structures of the Chanda system, derived from Sanskrit poetry, to encrypt and decrypt messages. This white paper presents the concept and implementation of Chanda Encryption, demonstrating its application as a linguistic-based encryption technique. We explore the encryption process, the security considerations, and potential use cases for Chanda Encryption. While Chanda Encryption offers an innovative approach to encryption, it is essential to note that it is primarily intended for educational and experimental purposes rather than stringent security requirements.
+
+1. Introduction
+   - Overview of encryption and its significance in securing sensitive information.
+   - Introduction to the Chanda system and its relevance in Sanskrit poetry.
+   - Motivation behind the exploration of Chanda Encryption as a linguistic-based encryption approach.
+
+2. Chanda Encryption Process
+   - Explanation of the Chanda Encryption process, involving the mapping of characters to Chanda patterns.
+   - Discussion on how Chanda patterns serve as encrypted representations of characters or symbols.
+   - Step-by-step illustration of the encryption and decryption algorithms using Chanda mappings.
+
+3. Security Considerations
+   - Analysis of the security aspects and limitations of Chanda Encryption.
+   - Comparison to established encryption algorithms in terms of cryptographic strength and resistance to attacks.
+   - Discussion on the potential vulnerabilities and challenges associated with Chanda Encryption.
+
+4. Use Cases and Applications
+   - Exploration of potential use cases and applications where Chanda Encryption may find relevance.
+   - Discussion on scenarios where linguistic-based encryption techniques could offer unique advantages.
+   - Consideration of the limitations and suitability of Chanda Encryption in specific use cases.
+
+5. Conclusion
+   - Recap of the Chanda Encryption concept and its implementation as a linguistic-based encryption scheme.
+   - Summary of the security considerations, advantages, and limitations of Chanda Encryption.
+   - Final thoughts on the educational and experimental value of Chanda Encryption and its potential future developments.
+
+Through this white paper, we introduce Chanda Encryption as an innovative approach to encryption that draws
+inspiration from the rhythmic patterns of the Chanda system in Sanskrit poetry. While Chanda Encryption
+showcases a creative use of linguistic-based encryption, it is important to recognize its limitations and the need
+for further research and analysis to ascertain its suitability for specific security requirements.

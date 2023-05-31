@@ -85,8 +85,34 @@ def decrypt(ciphertext):
                 plaintext += char
     return plaintext
 
+def encode_chanda(chanda_text):
+    encoded_text = ""
+    for pattern in chanda_text.split():
+        if pattern in chanda_mapping:
+            encoded_text += chanda_mapping[pattern]
+    return encoded_text
+
+def decode_chanda(encoded_text):
+    decoded_text = ""
+    for nucleotide in encoded_text:
+        for pattern, code in chanda_mapping.items():
+            if nucleotide == code:
+                decoded_text += pattern + " "
+                break
+    return decoded_text
+
+def correct_decryption(decoded_text):
+    corrected_text = ""
+    for chanda_pattern in decoded_text.split():
+        for char, chanda_name in chanda_mapping.items():
+            if chanda_name == chanda_pattern:
+                corrected_text += char
+                break
+    return corrected_text
+
+
 # Example usage
-plaintext = "HELLO"
+plaintext = "shrIguru charana saroja raja nija manu mukuru sudhAri baranaUM raghubara bimala jasu jo dAyaku phala chAri buddhihIna tanu jAnike sumirauM pavana kumAra bala buddhi bidyA dehu mohiM harahu kalesa bikAra"
 print("Plaintext:", plaintext)
 
 ciphertext = encrypt(plaintext)
@@ -94,3 +120,12 @@ print("Ciphertext:", ciphertext)
 
 decrypted_text = decrypt(ciphertext)
 print("Decrypted Text:", decrypted_text)
+
+chanda_text = "Madhya anusThuppu Ukta Sakvari pratisTha Ukta suprstisTha Sakvari Madhya dhRti abhikRti..."
+encoded_text = encode_chanda(chanda_text)
+print(f"Encoded text: {encoded_text}")
+decoded_text = decode_chanda(encoded_text)
+print(f"Decoded text: {decoded_text}")
+
+#correct_text = correct_decryption(ciphertext)
+#print(correct_text)
