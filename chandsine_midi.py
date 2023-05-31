@@ -162,7 +162,7 @@ soundwave = generate_soundwave(sanskrit_text, chanda_text, bpm, key, tuning)
 # Save the soundwave as a WAV file
 output_file = "output.wav"
 sd.write(output_file, soundwave, samplerate=44100)
-sd.
+
 # Generate a MIDI file from the soundwave
 midi_file = "output.mid"
 generate_midi_file(soundwave, bpm, key, midi_file)
