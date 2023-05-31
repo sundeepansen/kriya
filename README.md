@@ -94,16 +94,5 @@ The combination of Sanskrit encoding, encryption techniques, and DNA storage ope
 
 In conclusion, the Kriya project's rationale lies in its innovative fusion of ancient wisdom and modern technology. By harnessing the power of Sanskrit, encryption, and DNA-based storage, Kriya introduces a new paradigm for secure and long-lasting data storage. The project's potential applications and benefits make it a promising avenue for research, exploration, and advancement in the field of data storage and security.
 
-## Installation
-
-To use Kriya, follow these steps:
-
-1. Clone the Kriya repository: `git clone https://github.com/your/repository.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-
-## Usage
-
-1. Import the necessary modules:
-
-```python
-from kriya import encrypt, decrypt, encode_chanda, decode_chanda
+Sundeepan Sen
+MIT License
